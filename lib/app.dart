@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
-import 'contact.dart';
-import 'home.dart';
-import 'list_view_builder.dart';
-import 'list_view_demo.dart';
-import 'list_view_menu.dart';
-import 'list_view_separate.dart';
+
+import 'card_demo.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key); //1.constructor
@@ -12,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: ListViewMenu(
+      home: CardDemo(
 
       ),
     );
