@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'card_demo.dart';
+import 'list_tile_view.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key); //1.constructor
@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: CardDemo(
+      home: ListTilePage(
 
       ),
     );
