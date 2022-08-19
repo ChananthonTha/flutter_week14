@@ -4,6 +4,7 @@ class Menu {
   final String? title;
   final IconData? icon;
   final Color? bkColor;
+
   const Menu({this.title, this.bkColor, this.icon});
 }
 
@@ -31,16 +32,19 @@ class CardDemo extends StatelessWidget {
           crossAxisCount: (2),
           children: List.generate(menus.length, (index) {
             return Card(
+              color: menus[index].bkColor,
               margin: EdgeInsets.all(12),
               child: InkWell(
                 onTap: () {},
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(menus[index].icon, size: 40, color: menus[index].bkColor),
-                    Text(menus[index].title!, style: TextStyle(fontSize: 15, color: Colors.black),
-                    )
-                  ],
+                child: Center(
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(menus[index].icon, size: 40, color: Colors.white),
+                      Text(menus[index].title!, style: TextStyle(fontSize: 15, color: Colors.black),
+                      )
+                    ],
+                  ),
                 ),
               ),
             );
