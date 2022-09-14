@@ -33,7 +33,7 @@ class GridViewCardPage extends StatelessWidget {
           crossAxisSpacing: 10,
           children: List.generate(
             menus.length,
-                (index) {
+            (index) {
               return MyCard(
                 title: menus[index].title,
                 icon: menus[index].icon,

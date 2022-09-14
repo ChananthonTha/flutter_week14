@@ -13,156 +13,111 @@ class ListTilePage extends StatelessWidget {
         child: Column(
           children: [
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
+              title: Text("Marl Zuckerberg"),
+              subtitle: Text("Facebook"),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
+              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
-                print("IronMan");
-              },
-            ),
-            ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
-              onTap: () {
-                print("IronMan");
-              },
-            ),
-            ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
-              onTap: () {
-                print("IronMan");
-              },
-            ),
-            ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
-              onTap: () {
-                print("IronMan");
-              },
-            ),
-            ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
-              onTap: () {
-                print("IronMan");
-              },
-            ),
-            ListTile(
-              title: Text("Jeff Bezo"),
-              subtitle: Text("Amazon"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo,size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red),),
-              onTap: () {
-                print("IronMan");
+                print("Spiderman");
               },
             ),
           ],
